@@ -2,7 +2,7 @@
   "name": "boilerplate-react-app",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Andrew Mead",
+  "author": "Mark David Teo",
   "license": "MIT",
   "scripts": {
     "build:dev": "webpack",
@@ -34,6 +34,7 @@
     "react-addons-shallow-compare": "15.6.0",
     "react-dates": "12.3.0",
     "react-dom": "15.6.1",
+    "react-geolocated": "^2.2.1",
     "react-modal": "2.2.2",
     "react-redux": "5.0.5",
     "react-router-dom": "4.1.2",
